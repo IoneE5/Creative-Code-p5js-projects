@@ -1,0 +1,30 @@
+html, body {
+  background-color: darkseagreen;
+  color: indianred;
+  font-family: Palatino;
+  text-align: center;
+}
+
+h1 {
+  color: wheat;
+  font-size: 40px;
+}
+
+p {
+  font-size: 18px;
+}
+
+#canvas-container {
+  margin: 30px auto;
+  width: 800px;
+  max-width: 100%;
+}
+
+canvas {
+  max-width: 100%;
+  height: auto !important;
+}
+
+a {
+  color: indianred;
+}
